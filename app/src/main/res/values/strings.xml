@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="Url">
+        <item>https://images-na.ssl-images-amazon.com/images/I/51Asl4RvNPL._SY450_.jpg</item>
+        <item>https://i.pinimg.com/originals/bb/55/66/bb5566c14a95f1897b1e258e0fcb69fe.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/I/71N9bGfQSfL._SL1203_.jpg</item>
+        <item>https://www.painterartist.com/static/ptr/product_content/painter/2021/gallery/Hal-Fisher-Ballerina.jpg</item>
+        <item>https://archziner.com/wp-content/uploads/2020/01/abstract-painting-ideas-woman-with-hair-in-a-bun-dancing-flamenco-with-lon-red-skirt-blue-top.jpg</item>
+        <item>https://brightercraft.com/wp-content/uploads/2018/10/img_3992.jpg</item>
+        <item>https://storage.googleapis.com/ehimages/2017/10/25/img_942b5703ed4c5d3b242a34f7cc87d9c0_1508933938684_processed_original.jpg</item>
+
+    </string-array>
+    <string-array name="Price">
+        <item>12$</item>
+        <item>30$</item>
+        <item>25$</item>
+        <item>18$</item>
+        <item>20$</item>
+        <item>34$</item>
+        <item>12</item>
+
+    </string-array>
+</resources>
